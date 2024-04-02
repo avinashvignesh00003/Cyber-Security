@@ -1,0 +1,61 @@
+To find  network vulnerabilities
+Ascade-password cracking tool
+bruteforce
+RAT-remote access trorzan
+data and resource,securing,security,safeguarding
+physical control and administrative control,logical control  theses are the security controls
+pord scanning
+protocol is the set of rules
+TCP port-65,535 ports is the total ports 
+UDP port-65,535 is the additional port.... 1,31,070 total ports jointed of the TCP,UDP.tcp is used wide range.
+http port 80 is the website is unsafe
+htpps port 443-SECURE SOCKET LAYER
+differnce of http and https
+blockchain
+exploid-sql injunction
+section hijacking
+phising
+IP address
+cloud ,DNS
+spoofing
+hashing,meta sploite
+backdoor
+ethical hacker-a process of detecting vulnerabilities in an application, system, or organization's infrastructure that an attacker can use to exploit an individual or organization.
+webserver,website and web applications,webpages  differnace
+web application security testing and  the peneration testing.
+offensive(red team) and the defensive(blue team)(SOC ANALYST,MALWARE ANALYST)-two fields
+three types of the hackers
+1.white hat
+2.black hat
+3.grey hat.
+CIA STANDS FOR THE confidenitialy,intergity,avalibility-these are the network security
+auterincation another one name access control
+three factors only as the-->verify identity,biometrics,physical proof(aadhar card,pan card,voter id of a particular person)
+ENCRYPTION-clear text to cyber text.
+Breach-the loss of control
+Event-Any observable occurance in a network or system
+Expliot-A particular attack.
+Incident-An event  that actually or potienally jeopardizes the confidentally,integrity or avalibilty.
+Intrusion-A security event,or combination of events.It is IETF RFC 4949 Ver 2.
+Threat-Any circumstance or event with the operations
+VULNERBILITY-weakness is a information system security procedures.IT IS THE NIST SP 800-30 rev 1.
+Zero Day-A previously unknown System vulnerability with the potiential of exploitation without risks
+TOE-target of evaluation
+Ipv6-128b-hex-0-9,A,B,C,D,E,F
+differnce of IPV4 and the IPv6
+192.168.1.0-192.168.1.255-->256 IPs
+ipconfig
+nv path=> pre defined commands to give in cmd
+cross over=> connect same network devices
+straight through=> connect different network
+serialDTE=>to connect two router
+packet tracking tool--->to lostern the
+icmp-->internet conrol message protocol
+
+
+COMMANDS
+===========================================================
+ipconfig=> to get my id address
+ping --help=> to display help command
+(WIN)ping (ipaddress) -n (no.of req)=> to send n no of request
+(Linux) ping (ipaddress) -v (no.of req)=> to send n no of request
