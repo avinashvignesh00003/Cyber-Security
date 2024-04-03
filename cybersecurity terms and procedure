@@ -51,6 +51,14 @@ straight through=> connect different network
 serialDTE=>to connect two router
 packet tracking tool--->to lostern the
 icmp-->internet conrol message protocol
+DHCP---->default 
+Tracert-----> give ip address
+
+
+
+ERROR__________________
+desination host if it comees it error ---->cisco packet tracer 
+timeout error-->in cisco packet tracer if it comes means it has error speeling of name or the ip address wrong...
 
 
 
