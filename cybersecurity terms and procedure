@@ -1,3 +1,4 @@
+TERMS=====================================================================
 To find  network vulnerabilities
 Ascade-password cracking tool
 bruteforce
@@ -53,6 +54,21 @@ packet tracking tool--->to lostern the
 icmp-->internet conrol message protocol
 DHCP---->default  IP
 Tracert-----> give ip address
+SOC-->Security operations center (ROLE OF IT IN CYBERSECURITY ONE DOMAIN)
+LO---->loop back internet interface
+w lan--->wireless Lan
+etho-->Ether net
+proxy--->
+VPN-->Encryption/Decryption the connection between the client and the server.
+ENCRYPTION : clear text to cyber text
+DECRYPTION : cyber text to clear text.
+
+
+INTERVIEW QUESTIONS :(IMPORTANT)
+==============================================================
+Symmetric Encrp -single key
+Asymmetric Encrp -Public/private key
+
 
 
 
