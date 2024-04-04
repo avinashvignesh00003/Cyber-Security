@@ -51,7 +51,7 @@ straight through=> connect different network
 serialDTE=>to connect two router
 packet tracking tool--->to lostern the
 icmp-->internet conrol message protocol
-DHCP---->default 
+DHCP---->default  IP
 Tracert-----> give ip address
 
 
@@ -68,3 +68,13 @@ ipconfig=> to get my id address
 ping --help=> to display help command
 (WIN)ping (ipaddress) -n (no.of req)=> to send n no of request
 (Linux) ping (ipaddress) -v (no.of req)=> to send n no of request
+
+POWERSHELL COMMANDS=======================================================================
+where (file name)=> to find the location of the application
+cat (file name) (WIN)/more(Linux)=> to read the file
+echo "hai" >(filename)=>to insert the text in file
+echo "hai" >>(filename)=>to append the text in file
+mkdir (folder name)=> make directory
+mv (filename) (folder name)=> to cut paste
+cp (filename) (folder name)=> to copy paste
+python -m http.server 80=>to run server. 80 is port name
