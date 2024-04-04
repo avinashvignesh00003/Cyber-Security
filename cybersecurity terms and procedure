@@ -62,6 +62,8 @@ proxy--->
 VPN-->Encryption/Decryption the connection between the client and the server.
 ENCRYPTION : clear text to cyber text
 DECRYPTION : cyber text to clear text.
+Bruteforceattack---->it combines to check to all the combination of the all the virus format.!
+Dictionaryattack--->it checks only the one of the combination to check to compare your password to the others if same it will be the hacked..!
 
 
 
@@ -71,8 +73,9 @@ put as the command prompt
 website name  -c  4(4 indicates as the packet)
 then you go to wireshark  and given as  the ip.addr== the ip address of the website
 
-TOOL===================================================================
+TOOLS===================================================================
 wireshark--->packet analysis tool
+VIRUSTOTAL---> for the pupose of hash value checking and also checking the Antivirus  checking.
 
 
 INTERVIEW QUESTIONS :(IMPORTANT)
@@ -84,6 +87,7 @@ what is Three way handshake ?-----they all done in the tcp protocols
 2.SYN-ACK
 3.ACK
 TLS(transport layer security)-HANDSHAKE.
+differnce of the Encryption and Hashing.
 
 
 
@@ -110,3 +114,6 @@ mkdir (folder name)=> make directory
 mv (filename) (folder name)=> to cut paste
 cp (filename) (folder name)=> to copy paste
 python -m http.server 80=>to run server. 80 is port name
+ Get-fileHash ----->  Get-filehash. filepath(IT HAS THE CHECKS THE file is secured or not )
+Example :
+Get-fileHash '.\kali-Linux-2023.4-vmware-amd64.7z'
