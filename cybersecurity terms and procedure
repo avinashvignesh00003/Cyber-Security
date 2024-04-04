@@ -63,6 +63,14 @@ VPN-->Encryption/Decryption the connection between the client and the server.
 ENCRYPTION : clear text to cyber text
 DECRYPTION : cyber text to clear text.
 
+
+
+FIND WEBSITE NAME TO IP ADDRESS====
+COMMAND============
+put as the command prompt 
+website name  -c  4(4 indicates as the packet)
+then you go to wireshark  and given as  the ip.addr== the ip address of the website
+
 TOOL===================================================================
 wireshark--->packet analysis tool
 
@@ -71,6 +79,11 @@ INTERVIEW QUESTIONS :(IMPORTANT)
 ==============================================================
 Symmetric Encrp -single key
 Asymmetric Encrp -Public/private key
+what is Three way handshake ?-----they all done in the tcp protocols 
+1.SYN
+2.SYN-ACK
+3.ACK
+TLS(transport layer security)-HANDSHAKE.
 
 
 
