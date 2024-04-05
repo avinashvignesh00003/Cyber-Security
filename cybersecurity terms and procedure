@@ -74,6 +74,8 @@ Doamin--->Example.com
 Subdomains--->maps.example.com
 REPEATER  (IN BRUTESUITE)----->SAME THING CAN DO IN  AGAIN AND AGAIN......
 ENUMERATION----> USER,PHONE NO,EMAIL
+WAF(WEB APPLICATION FIREFALL)--->it is the rate limiting.
+404----------->client side error.
 
 
 =================LINUX TO GET FROM ==============================
