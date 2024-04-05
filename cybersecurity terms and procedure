@@ -67,6 +67,7 @@ Dictionaryattack--->it checks only the one of the combination to check to compar
 SUCCESS CODE---->200
 staring of 5------->SERVER SIDE............
 USER AGENT---> it calls the browser
+SESSION TOKEN hijacked ----->session token should be secured
 
 
 CLIENT-->  BURP PROXY-->SERVER
