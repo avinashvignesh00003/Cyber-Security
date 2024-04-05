@@ -68,6 +68,28 @@ SUCCESS CODE---->200
 staring of 5------->SERVER SIDE............
 USER AGENT---> it calls the browser
 SESSION TOKEN hijacked ----->session token should be secured
+TLD-->TOPM LEVEL DOMAIN
+web protocol---->http/https
+Doamin--->Example.com
+Subdomains--->maps.example.com
+REPEATER  (IN BRUTESUITE)----->SAME THING CAN DO IN  AGAIN AND AGAIN......
+ENUMERATION----> USER,PHONE NO,EMAIL
+
+
+=================LINUX TO GET FROM ==============================
+DEFAULT LOCATION:/var/www/html
+
+===============WINDOWS TO GET FROM=================================
+DEFAULT LOCATION : C:\inetpub\wwwroot
+
+===============LOCATION SAYS :============================[URL  BASIC HOW IT HAS ]
+HTTP/2 -HTTPS
+HTTP/1.1-HTTP
+
+====IF REQUEST HOST======
+host : website name .com
+===LOCATION TO  REDIRECT =============
+https://www.website.com/intl/en-GB/mail/help/website.html
 
 
 CLIENT-->  BURP PROXY-->SERVER
