@@ -58,12 +58,46 @@ SOC-->Security operations center (ROLE OF IT IN CYBERSECURITY ONE DOMAIN)
 LO---->loop back internet interface
 w lan--->wireless Lan
 etho-->Ether net
-proxy--->
+proxy---> an individual, legally allowed to act on behalf of another party or a format that would allow a participant to vote without being physically present at the meeting.
 VPN-->Encryption/Decryption the connection between the client and the server.
 ENCRYPTION : clear text to cyber text
 DECRYPTION : cyber text to clear text.
 Bruteforceattack---->it combines to check to all the combination of the all the virus format.!
 Dictionaryattack--->it checks only the one of the combination to check to compare your password to the others if same it will be the hacked..!
+SUCCESS CODE---->200
+staring of 5------->SERVER SIDE............
+USER AGENT---> it calls the browser
+
+
+CLIENT-->  BURP PROXY-->SERVER
+evertimes it will goes proxy and then only go to others 
+
+
+TOR- BITCOIN 1b- $67000
+
+
+CLIENT--->PROXY 1-->PROXY 2--->PROXY 3 --> PROXY  4-->PROXY  5 --->PROXY 6 ---->Server
+ 
+
+IMPORTANT INTERFACE BETWEEN  BETWEEN CLIENT TO SERVER MUST REMAINS ..!!
+INTERVIEW IMPORTANT QUESTION IN DEVELOPING SIDE AND ALSO HERE : NOTE
+===============================
+client request----->   server response---->DB
+HTTP METHODS              RESPONSE CODE
+GET                          1XX--Informational
+POST                          2xx-OK
+PUT                           3xx-Redirection
+OPTIONS                       4xx-Client-side error
+DELETE                        5x--Server-side error
+
+MUST KNOW..........!!!!!!!!!!!
+=============
+HTTP(METHODS)
+GET
+POST
+PUT
+OPTIONS
+DELETE
 
 What is a Pua?===========================================================
 Potentially unwanted application or applications (PUAs), classified as grayware, refer to applications installed in a mobile device or a computer that may pose high risk or have untoward impact on user security and/or privacy.
@@ -79,6 +113,17 @@ then you go to wireshark  and given as  the ip.addr== the ip address of the webs
 TOOLS===================================================================
 wireshark--->packet analysis tool
 VIRUSTOTAL---> for the pupose of hash value checking and also checking the Antivirus  checking.
+BURP SUITE ---->  it is the tool must  know it ...
+
+BURP SUITE DEFAULT IP  PORT  ADDRESS=============================================
+8080
+
+IMPORTANT COMMANDS FOR CMD============
+NOTE :IT ONLY RUNS IN KALI  OS
+sudo--->do as a super user(full form)
+sudo nmcli networking on :
+sudo service NetworkingManger Start :
+
 
 
 INTERVIEW QUESTIONS :(IMPORTANT)
@@ -118,5 +163,6 @@ mv (filename) (folder name)=> to cut paste
 cp (filename) (folder name)=> to copy paste
 python -m http.server 80=>to run server. 80 is port name
  Get-fileHash ----->  Get-filehash. filepath(IT HAS THE CHECKS THE file is secured or not )
+
 Example :
 Get-fileHash '.\kali-Linux-2023.4-vmware-amd64.7z'
