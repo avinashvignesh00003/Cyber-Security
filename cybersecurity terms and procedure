@@ -78,6 +78,7 @@ WAF(WEB APPLICATION FIREFALL)--->it is the rate limiting.
 404----------->client side error.
 
 
+
 =================LINUX TO GET FROM ==============================
 DEFAULT LOCATION:/var/www/html
 
@@ -161,6 +162,8 @@ what is Three way handshake ?-----they all done in the tcp protocols
 3.ACK
 TLS(transport layer security)-HANDSHAKE.
 differnce of the Encryption and Hashing.
+WHAT IS VA(VULNERABILITY ASSESMENT).
+what is risk matrics ?
 
 
 
