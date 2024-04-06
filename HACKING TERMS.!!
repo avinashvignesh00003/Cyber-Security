@@ -3,7 +3,7 @@
 
 
 ==================INTERVIEW QUESTIONS==============
-national vulnearbility database
+what is national vulnearbility database ?
 CVSS--->Common Vulnerability Scoring System
 CVSS SCORING---------
            NONE-0.0
@@ -11,6 +11,7 @@ CVSS SCORING---------
         MEDIUM-4.0-6.3
           HIGH-7.0-8.9
            CRITICAL-9.0-10.0
+
 
 ====================VULNEARABILITY SCANNERS=====================
 ((((((((((((((((((((((((((TYPES)))))))))
@@ -20,5 +21,32 @@ CVSS SCORING---------
 -->HOST-BASED VULN SCANNER
 -->API BASED VULN SCANNER
 -->CLOUD BASED VULN SCANNER-----MOST IMPORTANT
+
+==============perneration testing=========
+THE 5 PHASES OF THE  HACKS.!!!!!!  
+5 ------PHASES OF THE HACKING--------------------
+1.INFORMATION GATHERING
+2.THERAT MODELING
+3.VULNERABILITY ANANLYSIS
+4.EXPLOITATION-MAINITAIN ACCESS ALSO CALLED PERSISIST
+5.POST EXPLOITATION-CLEARING TRACTS
+
+=================this is command which is used in kali linux command prompt to install to anything===================
+sudo apt install apache2
+NOTE : apche2 has the name given which we want to the download 
+
+===================NOTE========================:
+CMSS-CONTACT MANAGEMENT SYSTEM
+(IT IS NO NEED CODING  WITHOUT CODING TO BUILD STATIC WEBSITE) BY USE DRAG AND DROP
+
+SPYDER------>IT DOWNLOADS AUTOMATICALLY ENTIRE AND CHECKS THE WEBSITE AND HAVE ANY VULNERABILITIES IT IS EASY TO SCAMMED YOUR WEBSITES BY  THE ATTACKERS. ....!
+
+===================================TOOLS==================
+ZEPROXY---->checking for the vulnearbilities in the website .
+NESSUS---->It is also checking the vulnearbilities for the website.
+WPSCAN--->TO SCAN WORD PRESS
+
+
+=============== (OWASP)  --> it is website to know the  top 10 most websites vulnearbilites (NOTE : MUST KNOW)==================
 
    
