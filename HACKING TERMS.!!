@@ -1,0 +1,14 @@
+=========VULNERABILITY  ASSESMENT PROCESS================
+  ASSEST DISCOVERY--->VULNERABILITY PROCESS-->VULNEARBILITY ASSESMENT--->VULNEARBILITY REMEDIATION
+
+
+==================INTERVIEW QUESTIONS==============
+national vulnearbility database
+CVSS--->Common Vulnerability Scoring System
+CVSS SCORING---------
+           NONE-0.0
+          LOW -0.1-3.9
+        MEDIUM-4.0-6.3
+          HIGH-7.0-8.9
+           CRITICAL-9.0-10.0
+   
