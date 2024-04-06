@@ -11,4 +11,14 @@ CVSS SCORING---------
         MEDIUM-4.0-6.3
           HIGH-7.0-8.9
            CRITICAL-9.0-10.0
+
+====================VULNEARABILITY SCANNERS=====================
+((((((((((((((((((((((((((TYPES)))))))))
+-->DATABASE VULN SCANNER
+-->NETWORK VULN SCANNER
+-->WEB APPPLICATION  VULN SCANNER
+-->HOST-BASED VULN SCANNER
+-->API BASED VULN SCANNER
+-->CLOUD BASED VULN SCANNER-----MOST IMPORTANT
+
    
