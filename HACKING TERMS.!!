@@ -59,8 +59,22 @@ use command as the---------------> ../../../../windows.win
 
 ===================================TOOL=================
 cyberchef------->it is used for the check png and thee file to small size....
+TCPVIEW----------->
 
 ========================maximum working depends upon the======================
 REPEPEATER ONLY
 NOT INTRUDER
+
+======commands======================
+ping facebook.com -c  4 | grep 163
+
+=====MUST KNOW THIS  SHELL  AND ALSO ASK  ABOUT THIS SHELLS IN INTERVIEW QUESTIONS======================= 
+web shell------>brower
+bind shell-------------->process/service/port combine 
+reverse shell---------->USER  INTERACTION
+  website name : revshell.com
+===================tools if the system has been hacked  we use to check it.!!!=========================
+process explorer
+TCPVIEW
+
 
