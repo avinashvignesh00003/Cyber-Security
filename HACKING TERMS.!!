@@ -84,3 +84,11 @@ canarytokens---->it is the website to hack the cookies..................
 ANGRYIPSCANNER------------>ITS SCANNING THE IP ADDRESS....
 IN KALI WE USED ----------> NETDISCOVER TOOL FOR THE SCAN THE IP ADDRESS
 
+
+===================INSTALL COMMAND ================
+KALI COMMAND
+==================================================
+python -m pip install -r requirments
+cd...
+
+
