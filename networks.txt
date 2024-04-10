@@ -1,0 +1,12 @@
+What is network?
+    A network consists of two or more computers that are linked in order to share resources (such as printers and CDs), exchange files, or allow electronic communications. 
+The computers on a network may be linked through cables, telephone lines, radio waves, satellites, or infrared light beams.
+
+Network vulnerability:
+    Network vulnerability is the weakness of the network.
+
+DHCP:
+ - Dynamic Host Configuration Protocol (DHCP) is a client/server protocol that automatically provides an Internet Protocol (IP) host with its IP address and other related configuration information such as the subnet mask and default gateway.
+
+DNS:
+ - DNS, or the Domain Name System, translates human readable domain names (for example, www.amazon.com) to machine readable IP addresses (for example, 192.0.2.44).
