@@ -59,7 +59,7 @@ use command as the---------------> ../../../../windows.win
 
 ===================================TOOL=================
 cyberchef------->it is used for the check png and thee file to small size....
-TCPVIEW----------->
+
 
 ========================maximum working depends upon the======================
 REPEPEATER ONLY
@@ -91,4 +91,14 @@ KALI COMMAND
 python -m pip install -r requirments
 cd...
 
+Download Academy.7z
 
+Download Splung Enterprise
+
+cmd
+- ip link set dev ens33 up
+- dhclient -v ens33
+
+localhost port 8000
+
+SIEM tool - Security Information and Event Management
