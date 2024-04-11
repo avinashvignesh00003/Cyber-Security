@@ -1,0 +1,7 @@
+Net discover:
+ - sudo netdiscover ip
+for range 
+- sudo netdiscover -r myip
+
+create directory and touch file target and store the output.
+
