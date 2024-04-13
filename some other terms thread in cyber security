@@ -1,2 +1,9 @@
 =================================PWN2OWN============
-it is name of hacking competition
+it is name of hacking competition.
+
+======================FOOTPRINTING====================
+it is nothing but information gathering 
+Active-->it is used nmap tool to scan the target.
+passive-->it collects information without accessing the target in nmap.
+
+======================OSINT FRAMEWORK=================
