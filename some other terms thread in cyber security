@@ -9,11 +9,11 @@ passive-->it collects information without accessing the target in nmap.
 ======================OSINT FRAMEWORK=================
 open source framework
 
-
 ================interview qustions==================
 1.differnent between virus and Ddos attack
 2.what is ransomeware
 3.what is the DDOS attack.
+4.how to do you assess risk.
 
 
 Keylogger - Hack Key board and trace every move.
@@ -30,4 +30,4 @@ Trojon - Hiding software from other legit software
 Ransomware - Encrypt our software and give popup in our system and blackmail,
 Dos attack - Send a network traffic from different ip address.
 
-NIST(cybersecurity framework)------->identify,protect,detect,respond,recover.
+NIST(cybersecurity framework)------->identify,protect,detect,respond,rec
