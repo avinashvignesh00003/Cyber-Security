@@ -7,9 +7,25 @@ Active-->it is used nmap tool to scan the target.
 passive-->it collects information without accessing the target in nmap.
 
 ======================OSINT FRAMEWORK=================
+open source framework
 
 
 ================interview qustions==================
 1.differnent between virus and Ddos attack
 2.what is ransomeware
 3.what is the DDOS attack.
+
+
+Keylogger - Hack Key board and trace every move.
+
+Research Paper:Code
+
+*forbes research - to know more about cubersecurity.
+*Check Point
+
+====================SOME TERMS===============================================
+Spyware - install any software from our device and spy.
+Rootkits - doesnot go even reset your pc or reinstall our os.
+Trojon - Hiding software from other legit software 
+Ransomware - Encrypt our software and give popup in our system and blackmail,
+Dos attack - Send a network traffic from different ip address.
