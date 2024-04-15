@@ -1,0 +1,31 @@
+CICSO WSA - Secure Web Appliance
+
+SSO - Single Sign On
+Single sign-on (SSO) is a session and user authentication service that permits a user to use one set of login credentials.
+-- for example, a username and password -- to access multiple applications. 
+SSO is used by organizations of all sizes and individuals to ease the management of multiple credentials.
+
+FrameWork - Collection of tools or Software
+Ex: VS code, PyCharm
+
+Platform - Developing, Testing, Deploying and Maintaining all are given by the single company.
+
+Infrastructure - Provide a Infrastructure to set of members.
+ex: Auto proctor
+
+how cloud works
+  data storage
+  access anywhere
+  virtualization  
+  scalability
+  cost-effective
+
+SSH - Cloud Server
+Ftp - port 21
+SSH - port 22
+MySql - 3306
+Ping uses ICMP protocol and no port.
+
+=========================================Youtube Channel===================: 
+pro hacker: John Hamor 
+Beginner: Ipcsec, David Bombal
