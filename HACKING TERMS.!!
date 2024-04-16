@@ -153,3 +153,6 @@ Hub:
 - Hub runs with ip address so it send packet to all the pcs which are all connected to the hub.
 Switch:
 -Switch runs with both MAC address and Ip address.SO it can able to send another switch with same ip address of the pcs.
+
+=======================HACKING WEBSITE=========================
+https://book.hacktricks.xyz.
