@@ -73,3 +73,6 @@ WIndows machine work as a server
 
 ====Splung Forwarder===
 - helps to connect device to the server device.
+
+
+etterhacp /bettercap------------>it is the tool in KALI it is like we can see the user id  of others pc (NOTE:ILLEGAL).(MAN IN A MIDDLE).
