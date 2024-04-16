@@ -36,6 +36,7 @@ Beginner: Ipcsec, David Bombal
 3.risk mitigation
 4.risk transfer.
 5.sql injunction.(prevent,use,need).
+5.Mitre  ATTACK.
 
 Threat Protection
 Shared Responsibilities
@@ -59,3 +60,4 @@ Cloud Security Challenges:
 - Data Loss : Unintensional or Malicious Deletion or Corruption of data.
 - Compliance Concerns : Adhering to industry and government regulation.
 - Insider Threats : Security posed by employees.
+SOP----->STANDARD OBJECT PROCEDURE .
