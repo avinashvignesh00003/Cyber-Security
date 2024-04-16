@@ -7,4 +7,4 @@ create directory and touch file target and store the output.
 
 NMAP COMMANDS USED FOR  THE:
 namp 192.168.1.44 -sV -d -d -p1-65535 -v -A -min-rate=3000  -oN test.tx
-IT IS COMMAND USED TO RUN FOR  THE PC IP TERACE IT EACH COMMAND AS THE ONE  DIVISION.
+IT IS COMMAND USED TO RUN FOR  THE PC IP TRACE IT EACH COMMAND AS THE ONE  DIVISION.
