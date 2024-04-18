@@ -156,3 +156,8 @@ Switch:
 
 =======================HACKING WEBSITE=========================
 https://book.hacktricks.xyz.
+
+================GPO===============
+1.local
+2.non-local
+3.starter group policy object.
