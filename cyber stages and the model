@@ -1,0 +1,12 @@
+============================================================================There are the seven stages of cyber kill chains===================================================
+1.RECONNAISSANCE---->it used to the tactics for the attack.
+2.WEAPONISATION------>it used to the needs and intenses of attack of the malware
+3.DELIVERY------->it covers the malware .
+4.EXPLOITATION--->it is the vulnerability of the  execute code
+5.INSTALLATION--->it is the malware of the gain tools
+6.COMMAND AND THE CONTROL---->The malware gives the intruder / attacker access in the network/system.
+7.ACTION ON OBJECTIVIES ----> It signifies the completion of the attack's primary objective.
+================MUST YOU KNOW ================================
+
+DIAMOND MODEL
+1.adversary--->2.victim--->3.infrastructure--->4.factor conditions.
