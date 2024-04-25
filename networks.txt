@@ -16,3 +16,4 @@ in vmware   in command prompt in linux kali
 sudo service NetworkManager start
 sudo nmcli networking on
 
+John Hammond(YOUTUBE) ------> if you want to learn the dark web .
