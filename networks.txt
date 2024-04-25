@@ -10,6 +10,7 @@ DHCP:
 
 DNS:
  - DNS, or the Domain Name System, translates human readable domain names (for example, www.amazon.com) to machine readable IP addresses (for example, 192.0.2.44).
+veracrypt------>it is the tool used by the forentics engineerfor the hacking.
 
             ==============  network connection==============
 in vmware   in command prompt in linux kali
